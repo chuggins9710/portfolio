@@ -1,9 +1,9 @@
 {
-  "name": "modern_portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio",
   "main": "index.js",
-  "homepage": "https://chuggins9710.github.io/modern_portfolio",
+  "homepage": "https://chuggins9710.github.io/portfolio",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.3",
