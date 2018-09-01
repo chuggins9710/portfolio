@@ -11,7 +11,7 @@ body {
   color: set-text-color($primary-color);
   height: 100%;
   margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.5;
 }
 
@@ -123,7 +123,6 @@ main {
 
   img {
     width: 100%;
-    border: 3px #fff solid;
 
     &:hover {
       opacity: 0.5;
@@ -187,7 +186,7 @@ main {
   text-align: center;
   padding: 1rem;
   background: darken($primary-color, 10);
-  color: set-text-color($primary-color);
+  color: white;
   height: 60px;
 }
 
